@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashejaz
+- 👋 Hi, I’m @ashejaz, a Junior Data Analyst working in Adult Education.
 - 👀 I’m interested in data analytics and visualisation.
-- 🌱 I’m currently learning advanced python, SQL and NoSQL.
+- 🌱 I’m currently learning advanced python, SQL and NoSQL and would love to colloborate on projects involving these.
 - 📫 Reach me on LinkedIn: https://www.linkedin.com/in/ashejaz
