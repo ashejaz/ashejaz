@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ashejaz
+- 👀 I’m interested in data analytics and visualisation.
+- 🌱 I’m currently learning advanced python, SQL and NoSQL.
+- 📫 Reach me on LinkedIn: https://www.linkedin.com/in/ashejaz
